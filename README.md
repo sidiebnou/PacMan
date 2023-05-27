@@ -6,6 +6,6 @@ Future Improvements:
 
     -We can add more funtionality to the page and add mmore styling using CSS.
 
-License Information:
-This project is open-source and is licensed under the [Open Source License].
+License Information:  
+This project is licensed under the MIT License.
    
